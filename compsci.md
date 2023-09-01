@@ -6,5 +6,4 @@ course: compsci
 ---
 | Syntax | Install Tools. Design lab notebook. Learn GitHub Pages. Work with Gavin. |
 | --------- | --------- |
-| Unit 1 | Build a Lab Notebook |
-| Paragraph | Text |
+| Unit 1: | Build a Lab Notebook |
