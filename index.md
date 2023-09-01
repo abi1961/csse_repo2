@@ -2,8 +2,8 @@
 layout: default #Ask for official layout
 title: Abigail's Blog
 ---
-## Abigail's CSSE Blog
-![Biography](C:\Users\abiga\OneDrive\Documents\programmingkey\CSSE\CSSEResearchProcess\csse_about_me.png "Biography")
+## Abigail's Blog
+![Biography](csse_about_me.png "Biography")
 
 
 
