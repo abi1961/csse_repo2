@@ -1,7 +1,11 @@
 ---
 layout: schedule
-title: Computer Science Lab Notebook
+title: Computer Science Time Box
 units: "1,2"
-course: compsci
+courses: { compsci: {week: 0} }
+type: plans
 ---
-
+| Syntax | Description |
+| ------ | ----------- |
+| Header | Title |
+| Paragraph | Text |
