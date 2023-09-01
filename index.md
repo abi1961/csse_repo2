@@ -3,8 +3,7 @@ layout: default #Ask for official layout
 title: Abigail's Blog
 ---
 ## Abigail's CSSE Blog
-
-![Alt text](https://drive.google.com/file/d/10x9MBE8bLkhoDuLUhdFEuRZwNFWK3eYl/view?usp=drive_link)
+!("C:\Users\abiga\OneDrive\Documents\programmingkey\CSSE\CSSEResearchProcess\csse_about_me.png")
 
 
 
