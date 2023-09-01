@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: default #Ask for official layout
 title: Abigail's Blog
 ---
+## Abigail's CSSE Blog
+
+![Alt text](https://drive.google.com/file/d/10x9MBE8bLkhoDuLUhdFEuRZwNFWK3eYl/view?usp=drive_link)
 
 
-## Build you Home Page here Abi
-This is about your journey. Start now!!!
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
