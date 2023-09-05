@@ -1,6 +1,6 @@
 ---
 layout: default #Ask for official layout
-title: Abigail's Blog
+title: Abigail Blog
 [CompSci](./_layouts/AbigailsBlogCompSciBlogs.html)
 ---
 ## Abigail's Blog
