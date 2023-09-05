@@ -1,6 +1,6 @@
 ---
-layout: default #Ask for official layout
-title: Abigail Blog
+layout: default 
+title: CSSE Blog: A.Besufekad
 [CompSci](./_layouts/AbigailsBlogCompSciBlogs.html)
 ---
 ## CSSE Blog: A.Besufekad
