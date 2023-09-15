@@ -1,11 +1,6 @@
 ---
 layout: schedule
-title: Computer Science Time Box
+title: Computer Science Time Box Page
 units: "1,2"
-courses: { compsci: {week: 0} }
-type: plans
+course: compsci
 ---
-| Syntax | Description |
-| ------ | ----------- |
-| Header | Title |
-| Paragraph | Text |

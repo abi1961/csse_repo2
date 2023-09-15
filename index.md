@@ -1,8 +1,9 @@
 ---
 layout: default 
-title: CSSE Blog: A.Besufekad
-[CompSci](./_layouts/AbigailsBlogCompSciBlogs.html)
+title: CSSE Blog - A.Besufekad
 ---
 ## CSSE Blog: A.Besufekad
 ![Biography](csse_about_me.png "Biography")
+
+[CompSci](./_layouts/AbigailsBlogCompSciBlogs.html)
  
