@@ -2,10 +2,10 @@
 toc: true
 layout: post
 title: Sprite Sheet Animation
-description: An intro to sprite sheets for 2D game animation.
-courses: { csse: {week: 5}, csp: {week: 13, categories: [1.A, 3.B]}, csa: {week: 3} }
+description: My First Sprite Animation.
+courses: { csse: {week: 5} }
 type: ccc
-author: Ekamjot Kaire
+author: Abigail Besufekad
 ---
 
 Reaper Animation:
